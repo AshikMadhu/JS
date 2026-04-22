@@ -1,0 +1,14 @@
+body {
+   background-color: rgb(255, 13, 166); 
+   text-align: center;
+   
+}
+h1{
+   font-style: italic;
+}
+
+
+button{
+   color:blue;
+   background-color: rgb(94, 255, 0);
+}
