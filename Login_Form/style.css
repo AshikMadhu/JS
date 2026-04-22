@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+    text-align: center;
+    border: 5px dashed;
+    padding: 50px;
+    
+}
+form{
+    background-color: azure;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+button{
+    block-size: 40px;
+    background-color: black;
+    color: aliceblue;
+    
+}
