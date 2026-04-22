@@ -1,4 +1,4 @@
- let images=["Img1.png","img2.jpg","img3.jpeg","img4.png"];
+ let images=["img2.jpg","img3.jpeg","img4.png"];
 let i=0;
 
 function nxtimg(){
