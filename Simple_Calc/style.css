@@ -1,0 +1,24 @@
+.box{
+    width:300px;
+   padding: 20px;
+   background-color: rgb(34, 255, 0);
+   border-radius: 20px;
+   text-align: center;
+   font-family: monospace;
+}
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+button{
+
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 65px;
+    height: 30px;
+    border-radius: 15px;
+}
