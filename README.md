@@ -8,7 +8,7 @@ A basic login form using HTML, CSS, and JavaScript.
 
 <p align="center">
   <a href="https://ashikmadhu.github.io/JS/Login_Form/" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Open%20Project-Click%20Here-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/▶️%20Open%20It-Click%20Here-black?style=for-the-badge" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ A basic student input form using HTML, CSS, and JavaScript.
 
 <p align="center">
   <a href="https://ashikmadhu.github.io/JS/Student_Form/" target="_blank">
-    <img src="https://img.shields.io/badge/🎓%20Open%20Project-Click%20Here-0f9b0f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓%20Open%20It-Click%20Here-0f9b0f?style=for-the-badge" />
   </a>
 </p>
 
