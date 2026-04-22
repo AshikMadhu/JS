@@ -66,3 +66,20 @@ A basic registration form using HTML, CSS, and JavaScript.
 
 ---
 ---
+# 🧮 Simple Calculator
+
+A basic calculator using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://ashikmadhu.github.io/JS/Simple_Calc/" target="_blank">
+    <img src="https://img.shields.io/badge/🧮%20Open%20It-Click%20Here-black?style=for-the-badge" />
+  </a>
+</p>
+
+---
+---
+
